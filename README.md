@@ -1,6 +1,6 @@
 ﻿# Customer Data Analysis With Python
 
-L’étude de cas contient est basé sur quatre jeux de données .csv, present dans le dossier "data". 
+L’étude de cas est basé sur quatre jeux de données .csv, present dans le dossier "data". 
 
 L'objectif est de :
 - nettoyer les jeux de données
